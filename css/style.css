@@ -1,0 +1,24 @@
+#calculateur-tarif {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+.range-input {
+    width: 100%;
+}
+output {
+    display: inline-block;
+    min-width: 30px;
+    text-align: center;
+}
+.result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
